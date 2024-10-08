@@ -11,7 +11,7 @@ Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.i
 
 ## 🎢 Gratis ritjes in het reuzenrad op de kermis!
 
-Een kermis uitbater bedenkt een actie om kermisklanten gratis ritjes op het reuzenrad aan te bieden. Bedenk een oplossing die voor de kermisklant en de uitbater inzicht kan verschaffen tijdens het faciliteren van de gratis ritjes op het reuzenrad!
+Een kermis uitbater bedenkt een actie om kermisklanten gratis ritjes op het reuzenrad aan te bieden. Bedenk een oplossing die de kermisklant en de uitbater kunnen helpen tijdens het faciliteren van de gratis ritjes op het reuzenrad!
 
 - Hoe zou de uitbater kunnen bijhouden hoeveel ritjes de klant al heeft gemaakt?
 - Hoe zou je kunnen bijhouden hoeveel ritjes de kermisklant nog te goed heeft?
