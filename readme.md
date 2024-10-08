@@ -7,7 +7,7 @@ Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.i
 # 💻 Computational thinking
 > Bij **computational thinking** wordt datgene wat de computer moet doen op een zodanige manier aan de computer "verteld" dat de computer snapt wat die moet doen!
 
-> Computational thinking is niet alleen handig voor het bedenken van taken die een computer moet doen om een probleem op te lossen. Een CMD student kan dit ook als techniek gebruiken om een complex probleem te vereenvoudigen, zodat deze vertaald kan worden naar een praktische oplossing.
+> Computational thinking is niet alleen handig voor het bedenken van taken die een computer moet doen om een probleem op te lossen. Een CMD student kan dit ook als mindset gebruiken om een complex probleem te vereenvoudigen, zodat deze vertaald kan worden naar een praktische oplossing.
 
 ## 🎢 Gratis ritjes in het reuzenrad op de kermis!
 
