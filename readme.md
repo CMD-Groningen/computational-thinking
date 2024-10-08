@@ -2,6 +2,8 @@ Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Gron
 Preview in de browser? [Klik hier](https://cmd-groningen.github.io/computational-thinking)  
 Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/computational-thinking) 
 
+-------------
+
 # 💻 Computational thinking
 > Bij **computational thinking** wordt datgene wat de computer moet doen op een zodanige manier aan de computer "verteld" dat de computer snapt wat die moet doen!
 
