@@ -13,7 +13,7 @@ Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.i
 
 Een kermis uitbater bedenkt een actie om kermisklanten gratis ritjes op het reuzenrad aan te bieden. Bedenk een oplossing die de kermisklant en de uitbater kunnen helpen tijdens het faciliteren van de gratis ritjes op het reuzenrad!
 
-### Computational Thinking
+### Computational Thinking voor de oplossing
 
 - Hoe zou de uitbater kunnen bijhouden hoeveel ritjes de klant al heeft gemaakt?
 - Hoe zou je kunnen bijhouden hoeveel ritjes de kermisklant nog te goed heeft?
