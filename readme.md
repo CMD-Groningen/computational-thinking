@@ -9,9 +9,11 @@ Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.i
 
 > Computational thinking is niet alleen handig voor het bedenken van taken die een computer moet doen om een probleem op te lossen. Een CMD student kan dit ook als mindset gebruiken om complexe problemen te vereenvoudigen, zodat deze vertaald kunnen worden naar praktische oplossingen.
 
-## 🎢 Gratis ritjes in het reuzenrad op de kermis!
+## 🎢 Case: Gratis ritjes in het reuzenrad op de kermis!
 
 Een kermis uitbater bedenkt een actie om kermisklanten gratis ritjes op het reuzenrad aan te bieden. Bedenk een oplossing die de kermisklant en de uitbater kunnen helpen tijdens het faciliteren van de gratis ritjes op het reuzenrad!
+
+### Computational Thinking
 
 - Hoe zou de uitbater kunnen bijhouden hoeveel ritjes de klant al heeft gemaakt?
 - Hoe zou je kunnen bijhouden hoeveel ritjes de kermisklant nog te goed heeft?
