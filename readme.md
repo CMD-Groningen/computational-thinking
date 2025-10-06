@@ -1,10 +1,11 @@
-Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/computational-thinking/archive/refs/heads/master.zip)     
-Preview in de browser? [Klik hier](https://cmd-groningen.github.io/computational-thinking)  
-Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/computational-thinking) 
+Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/computational-thinking-uitgebreid/archive/refs/heads/master.zip)     
+Preview in de browser? [Klik hier](https://cmd-groningen.github.io/computational-thinking-uitgebreid)  
+Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/computational-thinking-uitgebreid) 
 
 -------------
 
 # 💻 Computational thinking
+> Deze versie heeft ook INPUT (stempelkaart button) Voor de basisversie zonder input > [Klik hier](https://cmd-groningen.github.io/computational-thinking) 
 > Bij **computational thinking** wordt datgene wat de computer moet doen op een zodanige manier aan de computer "verteld" dat de computer snapt wat die moet doen!
 
 > Computational thinking is niet alleen handig voor het bedenken van taken die een computer moet doen om een probleem op te lossen. Een CMD student kan dit ook als mindset gebruiken om complexe problemen te vereenvoudigen, zodat deze vertaald kunnen worden naar praktische oplossingen.
