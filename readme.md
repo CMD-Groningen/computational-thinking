@@ -5,7 +5,7 @@ Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.i
 -------------
 
 # 💻 Computational thinking
-> Deze versie heeft ook INPUT (stempelkaart button) Voor de basisversie zonder input > [Klik hier](https://github.com/CMD-Groningen/computational-thinking)
+Deze versie heeft ook INPUT (stempelkaart button) Voor de basisversie zonder input > [Klik hier](https://github.com/CMD-Groningen/computational-thinking)
 > Bij **computational thinking** wordt datgene wat de computer moet doen op een zodanige manier aan de computer "verteld" dat de computer snapt wat die moet doen!
 
 > Computational thinking is niet alleen handig voor het bedenken van taken die een computer moet doen om een probleem op te lossen. Een CMD student kan dit ook als mindset gebruiken om complexe problemen te vereenvoudigen, zodat deze vertaald kunnen worden naar praktische oplossingen.
