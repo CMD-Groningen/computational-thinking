@@ -1,6 +1,6 @@
-Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/computational-thinking-uitgebreid/archive/refs/heads/master.zip)     
-Preview in de browser? [Klik hier](https://cmd-groningen.github.io/computational-thinking-uitgebreid)  
-Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/computational-thinking-uitgebreid) 
+Bestanden **downloaden** naar je laptop? [Klik hier](https://github.com/CMD-Groningen/computational-thinking/archive/refs/heads/master.zip)     
+Preview in de browser? [Klik hier](https://cmd-groningen.github.io/computational-thinking)  
+Speel live met deze code in **CodeSandbox** > [Klik hier!](https://codesandbox.io/s/github/CMD-Groningen/computational-thinking) 
 
 -------------
 
